@@ -1,0 +1,4 @@
+somethingInFinnish:SomethingInEnglish
+alla oleva:below
+apina:monkey
+olut:beer
